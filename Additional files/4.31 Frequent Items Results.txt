@@ -1,0 +1,111 @@
+Common Words in LEGO Reviews
+
+Most common words in 1 star reviews
+lego: 86
+app: 57
+box: 53
+set: 41
+product: 32
+missing: 29
+sets: 23
+pieces: 20
+buy: 19
+one: 19
+bought: 18
+damaged: 18
+time: 18
+get: 18
+also: 17
+packaging: 17
+parts: 17
+would: 16
+amazon: 16
+gift: 16
+
+Most common words in 2 star reviews
+lego: 85
+app: 40
+box: 30
+set: 28
+missing: 25
+pieces: 24
+product: 19
+good: 17
+sets: 16
+bricks: 15
+figure: 15
+beatbits: 15
+children: 14
+bought: 13
+bags: 13
+really: 13
+time: 13
+find: 13
+even: 13
+price: 13
+
+Most common words in 3 star reviews
+lego: 197
+set: 134
+app: 87
+box: 62
+pieces: 61
+would: 51
+like: 50
+product: 50
+fun: 50
+price: 47
+build: 44
+well: 44
+instructions: 44
+sets: 42
+really: 39
+small: 39
+nice: 39
+one: 38
+also: 38
+great: 36
+
+Most common words in 4 star reviews
+lego: 618
+set: 475
+great: 210
+app: 183
+good: 182
+price: 178
+fun: 169
+pieces: 160
+well: 158
+also: 153
+one: 141
+build: 138
+little: 130
+like: 129
+really: 128
+would: 126
+instructions: 121
+box: 117
+mario: 114
+bit: 112
+
+Most common words in 5 star reviews
+lego: 2983
+set: 1930
+great: 1276
+fun: 800
+build: 755
+good: 666
+one: 603
+really: 590
+gift: 555
+price: 551
+son: 550
+pieces: 540
+well: 522
+building: 508
+quality: 507
+like: 496
+also: 495
+old: 465
+together: 455
+product: 445
